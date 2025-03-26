@@ -1,16 +1,16 @@
 # Crystal Lizard Desktop Pet
 
-A cute desktop pet application that helps you stay productive with Pomodoro timer and reminders!
+A desktop pet application that helps you stay productive with Pomodoro timer and reminders!
 
 ## Features
 
-- 🦎 Interactive desktop pet that responds to your interactions
-- ⏱️ Built-in Pomodoro timer for productivity
-- 🔔 Reminder system with notifications
-- 💤 Auto-sleep when inactive
-- 🚶 Walking animation (requires walking animation images)
-- 📊 Pomodoro statistics tracking
-- ⚙️ Customizable settings
+- Interactive desktop pet that responds to your interactions
+- Built-in Pomodoro timer for productivity
+- Reminder system with notifications
+- Auto-sleep when inactive
+- Walking animation (requires walking animation images)
+- Pomodoro statistics tracking
+- Customizable settings
 
 ## Requirements
 
@@ -72,9 +72,6 @@ The application requires the following images in the same directory:
 - Snooze or dismiss notifications
 - View all reminders in a list
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
