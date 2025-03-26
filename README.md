@@ -72,12 +72,3 @@ The application requires the following images in the same directory:
 - Snooze or dismiss notifications
 - View all reminders in a list
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to all contributors who help improve this project
-- Inspired by desktop pet applications and productivity tools 
